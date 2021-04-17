@@ -228,6 +228,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/111935/"
       },
       "last_updated": "1616368746"
+                     },
+"18": {
+      "title": "Futei with...",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/354218/"
+      },
+      "last_updated": "1616368746"
       }
      }
-    }
+    } 
