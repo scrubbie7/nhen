@@ -1,0 +1,49 @@
+{
+  "title": "Renjou Fructus",
+  "description": "no",
+  "artist": "no",
+  "author": "no",
+  "cover": "https://t.nhentai.net/galleries/1786347/cover.jpg",
+  "chapters": {
+    "1": {
+      "title": "RJ",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/338625/"
+      },
+      "last_updated": "1616368746"
+    },
+"2": {
+      "title": "blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/9XhaMoc/"
+      },
+      "last_updated": "1616368746"
+    },
+"3": {
+      "title": "anna",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/hw3YYem/"
+      },
+      "last_updated": "1616368746"
+    },
+"4": {
+      "title": "pink",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/oQFHejP/"
+      },
+      "last_updated": "1616368746"
+    },
+"5": {
+      "title": "black",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/hvUqjm7/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
