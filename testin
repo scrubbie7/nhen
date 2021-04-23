@@ -236,6 +236,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/354218/"
       },
       "last_updated": "1616368746"
+                     },
+"5.2": {
+      "title": "Musaboru Onna",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/316333/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
