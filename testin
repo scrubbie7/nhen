@@ -252,6 +252,15 @@
         "<group name>": "/proxy/api/nhentai/chapter/337274/"
       },
       "last_updated": "1616368746"
+    },
+"20": {
+      "title": "sugarbt",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/235905/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
+
