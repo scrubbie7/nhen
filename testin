@@ -260,7 +260,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/235905/"
       },
       "last_updated": "1616368746"
+    },
+"21": {
+      "title": "[Shioroku] Kanojo to Boku no Kouhai no Hanashi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/300694/"
+      },
+      "last_updated": "1616368746"
+     },
+"22": {
+      "title": "[shindol] the good wife",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/309499/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
-
