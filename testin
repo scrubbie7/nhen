@@ -276,6 +276,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/309499/"
       },
       "last_updated": "1616368746"
+   },
+"2.1": {
+      "title": "Wife Taking",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/278154/"
+      },
+      "last_updated": "1616368746"
+   },
+"2.2": {
+      "title": "Yokumakezuma no Sukebegao",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/286332/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
