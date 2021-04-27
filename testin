@@ -292,7 +292,16 @@
         "<group name>": "/proxy/api/nhentai/chapter/238969/"
       },
       "last_updated": "1616368746"
+       },
+"21.2": {
+      "title": "Hajirai no Puffy Nip",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/208557/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
+
 
