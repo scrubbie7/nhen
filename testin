@@ -308,8 +308,17 @@
         "<group name>": "/proxy/api/nhentai/chapter/355612/"
       },
       "last_updated": "1616368746"
+         },
+"2.3": {
+      "title": "Kono Sukebe ni Shite Kono Sukebe Ari",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/305449/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
+
 
 
