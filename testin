@@ -300,6 +300,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/208557/"
       },
       "last_updated": "1616368746"
+      },
+"4.1": {
+      "title": "minna de sketch",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/355612/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
