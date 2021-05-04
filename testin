@@ -380,6 +380,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/352372/"
       },
       "last_updated": "1616368746"
+          },
+"4.2": {
+      "title": "[Tokiwa Midori] Torokeru Karada wa Otomeiro",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/345232/"
+      },
+      "last_updated": "1616368746"
+          },
+"28": {
+      "title": "[Namanikukai] Nikuya no Oku-san",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/356225/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
