@@ -468,9 +468,32 @@
         "<group name>": "/proxy/api/nhentai/chapter/333188/"
       },
       "last_updated": "1616368746"
+             },
+"33": {
+      "title": "[DISTANCE] Hinata Hinata plus",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/315368/"
+      },
+      "last_updated": "1616368746"
+             },
+"34": {
+      "title": "[Agata] Boku no Otona Shokugyou Taiken",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/355265/"
+      },
+      "last_updated": "1616368746"
+             },
+"34.1": {
+      "title": "Chou One x Pako³",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/265342/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
-
 
 
