@@ -500,8 +500,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/328574/"
       },
       "last_updated": "1616368746"
+             },
+"34.3": {
+      "title": "OneShota Byoutou 24-ji Harem Nyuuin Seikatsu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/316171/"
+      },
+      "last_updated": "1616368746"
+              },
+"35": {
+      "title": "[Toba Yuga] Shitsu Raku En",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/325374/"
+      },
+      "last_updated": "1616368746"
+                  },
+"36": {
+      "title": "[Jamming] Hamegaki x Yaritsuma",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/321482/"
+      },
+      "last_updated": "1616368746"
+                  },
+"36.1": {
+      "title": "Kyonyuu Sousa-kan Yura - Bitch Order",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/274054/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
-
-
