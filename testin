@@ -620,6 +620,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/241077/"
       },
       "last_updated": "1616368746"
+                 },
+"15.5": {
+      "title": "Midaraane to Jyukunikuduma",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/201299/"
+      },
+      "last_updated": "1616368746"
+                  },
+"38": {
+      "title": "[Hiroshiki] Hitozuma no tsubo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/348825/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
