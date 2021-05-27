@@ -636,6 +636,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/348825/"
       },
       "last_updated": "1616368746"
+                  },
+"38.1": {
+      "title": "mesu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/254511/"
+      },
+      "last_updated": "1616368746"
       }
      }
     } 
