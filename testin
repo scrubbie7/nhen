@@ -638,10 +638,34 @@
       "last_updated": "1616368746"
                   },
 "38.1": {
-      "title": "mesu",
+      "title": "Gusai no Tawamure",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/254511/"
+        "<group name>": "/proxy/api/nhentai/chapter/276121/"
+      },
+      "last_updated": "1616368746"
+                  },
+"38.2": {
+      "title": "Rankou Bitch",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/257698/"
+      },
+      "last_updated": "1616368746"
+                  },
+"38.3": {
+      "title": "Renai Yuugu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/165618/"
+      },
+      "last_updated": "1616368746"
+                  },
+"38.4": {
+      "title": "Hatsujou Carnival",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/162601/"
       },
       "last_updated": "1616368746"
       }
