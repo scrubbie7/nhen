@@ -756,6 +756,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/331528/"
       },
       "last_updated": "1616368746"
+                  },
+"19.3": {
+      "title": "Wa Vibe De Kanojo Wa Onaho",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/164053/"
+      },
+      "last_updated": "1616368746"
+                   },
+"19.4": {
+      "title": "Tokoharu no Shoujo-tachi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/206339/"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
