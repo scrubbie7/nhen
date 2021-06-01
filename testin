@@ -732,6 +732,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/335402/"
       },
       "last_updated": "1616368746"
+                   },
+"39.4": {
+      "title": "Nakadashi Tsuyudaku Kyonyuu Jugyou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/315773/"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
