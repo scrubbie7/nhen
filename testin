@@ -820,6 +820,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/336604/"
       },
       "last_updated": "1616368746"
+                      },
+"46.1": {
+      "title": "Joukou no hibi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/326644/"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
