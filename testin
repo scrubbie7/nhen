@@ -798,7 +798,7 @@
       "last_updated": "1616368746"
                    },
 "44.1": {
-      "title": " Toshishita Doutei Mania",
+      "title": "Toshishita Doutei Mania",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/319205/"
@@ -806,7 +806,7 @@
       "last_updated": "1616368746"
                    },
 "45": {
-      "title": " [Okumoto Yuuta] Chichi Mamire",
+      "title": "[Okumoto Yuuta] Chichi Mamire",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/319527/"
@@ -814,7 +814,7 @@
       "last_updated": "1616368746"
                      },
 "46": {
-      "title": " [Shiomaneki] Amanee!",
+      "title": "[Shiomaneki] Amanee!",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/316391/"
@@ -828,7 +828,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/338629/"
       },
       "last_updated": "1616368746"
+                     },
+"48: {
+      "title": "[Bifidus]Joukou no hibi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/326644/"
+      },
+      "last_updated": "1616368746"
+                        },
+"48.1: {
+      "title": "Majiwari no yado",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/336604/"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
-
