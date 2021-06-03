@@ -844,6 +844,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/338629/"
       },
       "last_updated": "1616368746"
+                        },
+"49": {
+      "title": "[Simon] Hatsukoi Jikan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/346589/"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
