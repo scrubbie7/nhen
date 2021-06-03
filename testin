@@ -852,6 +852,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/346589/"
       },
       "last_updated": "1616368746"
+                        },
+"50": {
+      "title": "[Shinozuka Yuuji] Hajimete no Hitozuma",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/340116/"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
