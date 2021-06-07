@@ -900,6 +900,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/361250/"
       },
       "last_updated": "1616368746"
+                         },
+"55": {
+      "title": "[Ashiomi Masato] Emotion Island",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/300057/"
+      },
+      "last_updated": "1616368746"
+                        },
+"55.1": {
+      "title": "Kioku Ryoujoku",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/337143/"
+      },
+      "last_updated": "1616368746"
+                        },
+"55.2": {
+      "title": "Gohoushi Zakari",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/359254/"
+      },
+      "last_updated": "1616368746"
+                          },
+"55.3": {
+      "title": "Crime Girls",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/201334/"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
