@@ -1020,6 +1020,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/361311"
       },
       "last_updated": "1616368746"
+                          },
+"59.1": {
+      "title": "Watashi-tachi wa Shihai Sarenagara Okasareru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/319128"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
