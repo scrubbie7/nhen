@@ -1052,6 +1052,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/52591"
       },
       "last_updated": "1616368746"
+                            },
+"58.2": {
+      "title": "Squall",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/55537"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
