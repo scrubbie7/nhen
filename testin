@@ -1060,6 +1060,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/55537"
       },
       "last_updated": "1616368746"
+                            },
+"59.4": {
+      "title": "Fall in the Dark",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/189087"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
