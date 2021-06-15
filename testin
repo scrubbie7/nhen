@@ -1076,6 +1076,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/359020"
       },
       "last_updated": "1616368746"
+                               },
+"58.3": {
+      "title": "Boku no mae",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/151354"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
