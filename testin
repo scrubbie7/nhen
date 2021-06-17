@@ -1124,6 +1124,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/330093"
       },
       "last_updated": "1616368746"
+                                },
+"58.5": {
+      "title": "Hamekano Chijo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/318230"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
