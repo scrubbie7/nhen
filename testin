@@ -1140,6 +1140,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/241348"
       },
       "last_updated": "1616368746"
+                                },
+"64": {
+      "title": "[Bota Mochito] Milky Time",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/362928"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
