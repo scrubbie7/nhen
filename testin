@@ -1188,6 +1188,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/269577"
       },
       "last_updated": "1616368746"
+                                },
+"67.1": {
+      "title": "Hatsukoi no Hito -Moshi Aishou Batsugun",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/358251"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
