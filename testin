@@ -1180,6 +1180,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/322067"
       },
       "last_updated": "1616368746"
+                                },
+"67": {
+      "title": "[Takuwan] Pakotate! Seikouritsu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/269577"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
