@@ -1228,6 +1228,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/217191"
       },
       "last_updated": "1616368746"
+                                },
+"70": {
+      "title": "[Azuma tesshin] boku no toshiue no kanojo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/166259"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
