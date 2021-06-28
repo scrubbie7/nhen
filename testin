@@ -1244,6 +1244,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/282232"
       },
       "last_updated": "1616368746"
+                                },
+"71.1": {
+      "title": "Kanojo no Sukima wa Boku no Katachi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/222050"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
