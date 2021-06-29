@@ -1252,6 +1252,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/222050"
       },
       "last_updated": "1616368746"
+                                },
+"72": {
+      "title": "[Sagattoru] Nurete Torokete Majiwarite",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/284457"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
