@@ -1260,6 +1260,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/284457"
       },
       "last_updated": "1616368746"
+                                },
+"73": {
+      "title": "[Blman] Hobetsu Ichigo Hakusho",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/264045"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
