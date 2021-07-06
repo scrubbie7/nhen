@@ -1284,6 +1284,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/257601"
       },
       "last_updated": "1616368746"
+                                },
+"75": {
+      "title": "[Nohito] Nee, Irete",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/342883"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
