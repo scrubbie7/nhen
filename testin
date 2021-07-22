@@ -1324,6 +1324,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/269770"
       },
       "last_updated": "1616368746"
+                                },
+"78.1": {
+      "title": "Chibo Soukan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/291094"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
