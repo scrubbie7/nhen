@@ -1316,6 +1316,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/329221"
       },
       "last_updated": "1616368746"
+                                },
+"76.1": {
+      "title": "Houkago Galhame Nikubenki",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/269770"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
