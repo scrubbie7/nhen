@@ -1332,6 +1332,23 @@
         "<group name>": "/proxy/api/nhentai/chapter/291094"
       },
       "last_updated": "1616368746"
+                                },
+"76.2": {
+      "title": "Dassai Nikuyokugurui ni Ochite",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/320018"
+      },
+      "last_updated": "1616368746"
+                                },
+"76.3": {
+      "title": "Iregui Ochita Tsuma-tachi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/185647"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
+
