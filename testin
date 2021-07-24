@@ -1356,6 +1356,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/322345"
       },
       "last_updated": "1616368746"
+                                },
+"80": {
+      "title": "[HGT Lab] Kyoudai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/305154"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
