@@ -1364,6 +1364,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/305154"
       },
       "last_updated": "1616368746"
+                                },
+"63.1": {
+      "title": "[HGT Lab] Shitsukeai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/304245"
+      },
+      "last_updated": "1616368746"
+                                },
+"63.2": {
+      "title": "[HGT Lab] Miuriduma",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/348032"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
