@@ -1380,7 +1380,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/348032"
       },
       "last_updated": "1616368746"
+                                },
+"81": {
+      "title": "[Otone] Ane Wa Yome",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/57717"
+      },
+      "last_updated": "1616368746"
+                                },
+"81.1": {
+      "title": "Motto Nee Motto",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/213925"
+      },
+      "last_updated": "1616368746"
+                                },
+"81.2": {
+      "title": "Anethurium",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/217197"
+      },
+      "last_updated": "1616368746"
+                                },
+"81.3": {
+      "title": "Kore kara",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/364661"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
-
