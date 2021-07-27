@@ -1412,6 +1412,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/364661"
       },
       "last_updated": "1616368746"
+                                },
+"82": {
+      "title": "[Asakura Mitsuru] Misemono Goya",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/306232"
+      },
+      "last_updated": "1616368746"
+                                },
+"82.1": {
+      "title": "Shuchinikurin",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/365108"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
