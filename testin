@@ -1428,6 +1428,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/365108"
       },
       "last_updated": "1616368746"
+                                },
+"83": {
+      "title": "[Makibe Kataru] Hitozuma Koi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/342261"
+      },
+      "last_updated": "1616368746"
+                                },
+"83.1": {
+      "title": "Oba san dakedo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/342260"
+      },
+      "last_updated": "1616368746"
+                                },
+"84": {
+      "title": "[Tarakan] Kare no Ochinpo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/355513"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
