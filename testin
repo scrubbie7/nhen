@@ -142,10 +142,10 @@
       "last_updated": "1616368746"
     },
 "14": {
-      "title": "[Maimu-Maimu] my gf's mama",
+      "title": "[Maimu-Maimu]Call Me Mom",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/351678/"
+        "<group name>": "/proxy/api/nhentai/chapter/367707/"
       },
       "last_updated": "1616368746"
     },
@@ -1450,6 +1450,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/355513"
+      },
+      "last_updated": "1616368746"
+                                },
+"84.1": {
+      "title": "Shojo ga Yonin",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/259391"
       },
       "last_updated": "1616368746"
       }
