@@ -1508,6 +1508,23 @@
         "<group name>": "/proxy/api/nhentai/chapter/371216"
       },
       "last_updated": "1616368746"
+                                },
+"8.6": {
+      "title": "Musuko Ni Ai Ni Joukyou Shita Haha",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/372817"
+      },
+      "last_updated": "1616368746"
+                                },
+"50.1": {
+      "title": "Married Life",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/370033"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
+
