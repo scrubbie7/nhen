@@ -46,7 +46,7 @@
       "last_updated": "1616368746"
      },
 "6": {
-      "title": "[Azukiko] Boku no Mamakatsu! | My Sugar Mama! 1-4",
+      "title": "[Azukiko | Hiroya] Boku no Mamakatsu! | My Sugar Mama! 1-4",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/366394/"
@@ -1498,6 +1498,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/356168"
+      },
+      "last_updated": "1616368746"
+                                },
+"6.1": {
+      "title": "Shirotaegiku",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/371216"
       },
       "last_updated": "1616368746"
       }
