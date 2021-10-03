@@ -1524,6 +1524,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/370033"
       },
       "last_updated": "1616368746"
+                                },
+"18.1": {
+      "title": "Tenbai Oku",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/374717"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
