@@ -1564,6 +1564,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/363169"
       },
       "last_updated": "1616368746"
+                                },
+"90": {
+      "title": "[Torotaro] Shoujo Fondue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/368656"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
