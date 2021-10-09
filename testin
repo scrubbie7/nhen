@@ -1556,8 +1556,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/368737"
       },
       "last_updated": "1616368746"
+                                },
+"18.2": {
+      "title": "Outsan Tetsu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/363169"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
-
-
