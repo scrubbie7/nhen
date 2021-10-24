@@ -1588,6 +1588,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/376873"
       },
       "last_updated": "1616368746"
+                                },
+"93": {
+      "title": "[Sakai Hamachi] Hitozuma Datte Koi Shitai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/324332"
+      },
+      "last_updated": "1616368746"
+                                },
+"94": {
+      "title": "[Mizuhara Yuu] Claim Seishori 2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/374049"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
