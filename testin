@@ -1604,6 +1604,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/374049"
       },
       "last_updated": "1616368746"
+                                },
+"95": {
+      "title": "[Kichirock Himitsu no kichi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/375452"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
