@@ -1620,6 +1620,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/373126"
       },
       "last_updated": "1616368746"
+                                },
+"52.1": {
+      "title": "Koushite Mama wa Boku no Onna ni Natta",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/370332"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
