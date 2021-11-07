@@ -1628,6 +1628,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/370332"
       },
       "last_updated": "1616368746"
+                                },
+"89.1": {
+      "title": "Libido",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/322506"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
