@@ -1660,6 +1660,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/377607"
       },
       "last_updated": "1616368746"
+                                },
+"99": {
+      "title": "[Sakomae Aichi] Tokusen ~Shiru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/315875"
+      },
+      "last_updated": "1616368746"
+                                },
+"100": {
+      "title": "[Mikawaya] Midara Fushidara Yomosugara",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/373358"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
