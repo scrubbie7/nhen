@@ -1644,6 +1644,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/378710"
       },
       "last_updated": "1616368746"
+                                },
+"97": {
+      "title": "[Mitarai Yuuki] Jokyoshi 5",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/378503"
+      },
+      "last_updated": "1616368746"
+                                },
+"98": {
+      "title": "[Shirano Jin] Yarashii Oku-san",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/377607"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
