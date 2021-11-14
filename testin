@@ -1676,6 +1676,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/373358"
       },
       "last_updated": "1616368746"
+                                },
+"6.2": {
+      "title": "Dusty Miller",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/379556"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
