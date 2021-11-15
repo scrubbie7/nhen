@@ -1684,6 +1684,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/379556"
       },
       "last_updated": "1616368746"
+                                },
+"101": {
+      "title": "[Itou Nanami] Letran veil ch1",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/380073"
+      },
+      "last_updated": "1616368746"
+                                },
+"101.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/379482"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
