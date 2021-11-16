@@ -1716,6 +1716,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/346564"
       },
       "last_updated": "1616368746"
+                                },
+"23.1": {
+      "title": "Tomodachi no Haha",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/294867"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
