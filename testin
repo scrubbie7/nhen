@@ -1708,6 +1708,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/342441"
       },
       "last_updated": "1616368746"
+                                },
+"6.3": {
+      "title": "Drunken Flower",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/346564"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
