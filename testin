@@ -1780,6 +1780,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/379575"
       },
       "last_updated": "1616368746"
+                                },
+"108": {
+      "title": "[Matsukawa] Ryoute ni Senpai ",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/379607"
+      },
+      "last_updated": "1616368746"
+                                },
+"4.3": {
+      "title": "Gal ni Tomarimasu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/372157"
+      },
+      "last_updated": "1616368746"
+                                },
+"4.4": {
+      "title": "Kanpai! Tsuyotsuyo Onee-chan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/377347"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
