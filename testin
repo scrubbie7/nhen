@@ -1812,6 +1812,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/325014"
       },
       "last_updated": "1616368746"
+                                },
+"109": {
+      "title": "[Chousuke Nagashima] Fukinshin Soukan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/367706"
+      },
+      "last_updated": "1616368746"
+                                },
+"110": {
+      "title": "[Ochichio] Adeyaka Nursing",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/372387"
+      },
+      "last_updated": "1616368746"
+                                },
+"110.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/372388"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
