@@ -1804,6 +1804,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/377347"
       },
       "last_updated": "1616368746"
+                                },
+"107.2": {
+      "title": "Anarchy Girl",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/325014"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
