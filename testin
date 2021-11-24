@@ -1836,6 +1836,15 @@
         "<group name>": "/proxy/api/nhentai/chapter/372388"
       },
       "last_updated": "1616368746"
+                                },
+"6.4": {
+      "title": "Kyou kara Kimi no Dorei ",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/372265"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
+
