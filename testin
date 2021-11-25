@@ -1852,6 +1852,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/376809"
       },
       "last_updated": "1616368746"
+                                },
+"111.1": {
+      "title": "Harem Spiral",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/358214"
+      },
+      "last_updated": "1616368746"
+                                },
+"112": {
+      "title": "[Kusatsu Terunyo] Mesupako Nikki",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/247488"
+      },
+      "last_updated": "1616368746"
+                                },
+"113": {
+      "title": "[R Gen] Mesu Hana Ga Ochiru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/162767"
+      },
+      "last_updated": "1616368746"
+                                },
+"114": {
+      "title": "[Itaba Hiroshi] Kyonyuu Akugi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/126246"
+      },
+      "last_updated": "1616368746"
       }
      }
     }
