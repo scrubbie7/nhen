@@ -1924,6 +1924,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/377289"
       },
       "last_updated": "1616368746"
+                                 },
+"116.1": {
+      "title": "boku wa umedasan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/370517"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
