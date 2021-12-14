@@ -1948,6 +1948,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/382987"
       },
       "last_updated": "1616368746"
+                                 },
+"74.2": {
+      "title": "Shiko Splash",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/382277"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
