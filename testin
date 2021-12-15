@@ -1956,6 +1956,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/382277"
       },
       "last_updated": "1616368746"
+                                 },
+"47.1": {
+      "title": "Arawa Tawawa",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/189527"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
