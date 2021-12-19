@@ -2004,6 +2004,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/383791"
       },
       "last_updated": "1616368746"
+                                 },
+"120.1": {
+      "title": "Hore Tokidoki Nukumori",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/258654"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
