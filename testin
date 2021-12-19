@@ -1366,7 +1366,7 @@
       "last_updated": "1616368746"
                                 },
 "63.1": {
-      "title": "[HGT Lab] Shitsukeai",
+      "title": "Shitsukeai",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/304245"
@@ -1374,7 +1374,7 @@
       "last_updated": "1616368746"
                                 },
 "63.2": {
-      "title": "[HGT Lab] Miuriduma",
+      "title": "Miuriduma",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/348032"
@@ -1994,6 +1994,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/383851"
+      },
+      "last_updated": "1616368746"
+                                 },
+"80.1": {
+      "title": "Neighborhood Associations",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/383791"
       },
       "last_updated": "1616368746"
                                 }
