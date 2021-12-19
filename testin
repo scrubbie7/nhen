@@ -2028,6 +2028,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/347643"
       },
       "last_updated": "1616368746"
+                                 },
+"126": {
+      "title": "[Airy Socks] Hajimete no Gakusei Beit",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/299074"
+      },
+      "last_updated": "1616368746"
+                                 },
+"126.1": {
+      "title": "Jidori SNS ni Hamaru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/317484"
+      },
+      "last_updated": "1616368746"
+                                 },
+"126.2": {
+      "title": "Kanojo no Okashita Ayamachi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/289457"
+      },
+      "last_updated": "1616368746"
+                                 },
+"126.3": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/295890"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
