@@ -2100,6 +2100,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/359879"
       },
       "last_updated": "1616368746"
+                                 },
+"128": {
+      "title": "[Nakajima Yuka] Hitozuma Osananajimi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/317039"
+      },
+      "last_updated": "1616368746"
+                                 },
+"128.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/302294"
+      },
+      "last_updated": "1616368746"
+                                 },
+"128.2": {
+      "title": "ch3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/383473"
+      },
+      "last_updated": "1616368746"
+                                 },
+"128.3": {
+      "title": "ch4",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/383771"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
