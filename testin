@@ -2180,6 +2180,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/353897"
       },
       "last_updated": "1616368746"
+                                 },
+"133": {
+      "title": "[Ozy] Tsumabiku yoru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/383956"
+      },
+      "last_updated": "1616368746"
+                                 },
+"134": {
+      "title": "[Mojarin] Nyan nyan shichau",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/229248"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
