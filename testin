@@ -2164,6 +2164,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/376193"
       },
       "last_updated": "1616368746"
+                                 },
+"131": {
+      "title": "[Tuna Empire] Anata no Oku-san",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/383296"
+      },
+      "last_updated": "1616368746"
+                                 },
+"132": {
+      "title": "[Tanishi] INMOU",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/353897"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
