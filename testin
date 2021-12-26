@@ -2236,6 +2236,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/307845"
       },
       "last_updated": "1616368746"
+                                 },
+"138": {
+      "title": "[Hasemi box (Hasemi Ryo)] Saimin Hitozuma OL-san ~Kimo Buchou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/352372"
+      },
+      "last_updated": "1616368746"
+                                 },
+"138.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/373650"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
