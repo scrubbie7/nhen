@@ -2260,6 +2260,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/322843"
       },
       "last_updated": "1616368746"
+                                 },
+"139": {
+      "title": "[Gin Penguin] Otto no Joushi ni Netorarete!! ",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/316481"
+      },
+      "last_updated": "1616368746"
+                                 },
+"139.1": {
+      "title": "Yama Girl o Aokan Shichaimashita!!",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/297898"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
