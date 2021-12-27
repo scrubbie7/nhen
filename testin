@@ -2276,6 +2276,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/297898"
       },
       "last_updated": "1616368746"
+                                 },
+"140": {
+      "title": "B[Cyclone (Izumi, Reizei)] Midareuchi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/297217"
+      },
+      "last_updated": "1616368746"
+                                 },
+"140.1": {
+      "title": "ch2 ",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/310390"
+      },
+      "last_updated": "1616368746"
+                                 },
+"140.2": {
+      "title": "ch3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/368524"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
