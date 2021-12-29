@@ -2302,10 +2302,18 @@
       "last_updated": "1616368746"
                                  },
 "22.1": {
-      "title": " 45 fun de Kare o Todoketel",
+      "title": "45 fun de Kare o Todoketel",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/348138"
+      },
+      "last_updated": "1616368746"
+                                 },
+"22.2": {
+      "title": "Overlove (Golden Kamuy)",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/305044"
       },
       "last_updated": "1616368746"
                                 }
