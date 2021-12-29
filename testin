@@ -2308,6 +2308,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/299219"
       },
       "last_updated": "1616368746"
+                                 },
+"141.1": {
+      "title": "Tonari no Onee-san no Shitagi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/357167"
+      },
+      "last_updated": "1616368746"
+                                 },
+"142": {
+      "title": "[Haguruma] Inner Immoral",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/305868"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
