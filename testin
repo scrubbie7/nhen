@@ -2324,6 +2324,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/304514"
       },
       "last_updated": "1616368746"
+                                 },
+"144": {
+      "title": "[menosuke] shinseikatsu zenpen",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/324858"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
