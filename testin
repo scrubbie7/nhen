@@ -2356,6 +2356,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/189999"
       },
       "last_updated": "1616368746"
+                                 },
+"146": {
+      "title": "[H9] Kanojo ni Kokuhaku Suru Mae ni Tomodachi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/385576"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
