@@ -2340,7 +2340,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/359796"
       },
       "last_updated": "1616368746"
+                                 },
+"120.1": {
+      "title": "Iinari Acme",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/147497"
+      },
+      "last_updated": "1616368746"
+                                 },
+"114.2": {
+      "title": "Kono Haru, Kanojo ga Dekimashita",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/189999"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
-
