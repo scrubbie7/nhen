@@ -2388,6 +2388,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/256297"
       },
       "last_updated": "1616368746"
+                                 },
+"18.3": {
+      "title": "Enji ni Somaru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/238986"
+      },
+      "last_updated": "1616368746"
+                                 },
+"114.3": {
+      "title": "Ane to Kurasu | Living with Elder Sister",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/333258"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
