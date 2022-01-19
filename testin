@@ -2404,6 +2404,23 @@
         "<group name>": "/proxy/api/nhentai/chapter/333258"
       },
       "last_updated": "1616368746"
+                                 },
+"149": {
+      "title": "[Kuronomiki] Rennyu Order ~Okawari~",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/375574"
+      },
+      "last_updated": "1616368746"
+                                 },
+"56.2": {
+      "title": "Shitsurakuten Premium",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/385972"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
+
