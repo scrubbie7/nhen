@@ -2420,6 +2420,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/385972"
       },
       "last_updated": "1616368746"
+                                 },
+"14.1": {
+      "title": "Kanojo no Mama to Deaikei de",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/298946"
+      },
+      "last_updated": "1616368746"
+                                 },
+"150": {
+      "title": "[Reco] Itazura Talk - Listen to my sex talk",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/386705"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
