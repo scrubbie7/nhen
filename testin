@@ -2452,6 +2452,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/386249"
       },
       "last_updated": "1616368746"
+                                 },
+"151": {
+      "title": "[Hyji] Jukuren no Wana",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/179386"
+      },
+      "last_updated": "1616368746"
+                                 },
+"151.1": {
+      "title": "Juicy",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/76129"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
