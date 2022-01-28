@@ -2468,6 +2468,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/76129"
       },
       "last_updated": "1616368746"
+                                 },
+"152": {
+      "title": "[Tonnosuke] Aibenki -Tonari no Zetsurin Onee-san-",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/170912"
+      },
+      "last_updated": "1616368746"
+                                 },
+"51.2": {
+      "title": "Anata to Gachinko Taiketsu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/387415"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
