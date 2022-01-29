@@ -2492,7 +2492,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/388839"
       },
       "last_updated": "1616368746"
+                                 },
+"11.1": {
+      "title": "Panpan Travelers Hakata Shuudan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/363758"
+      },
+      "last_updated": "1616368746"
+                                 },
+"153": {
+      "title": "[Kozakura Kumaneko] Konamaiki na Kahanshin",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/246873"
+      },
+      "last_updated": "1616368746"
+                                 },
+"154": {
+      "title": "[Saburo] Tsuyahada Lovers",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/163951"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
-
