@@ -2516,6 +2516,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/163951"
       },
       "last_updated": "1616368746"
+                                 },
+"140.3": {
+      "title": "Yume ka Utsutsu ka",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/337838"
+      },
+      "last_updated": "1616368746"
+                                 },
+"33.1": {
+      "title": "Musume to Chichi no KETSUMATSU",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/243941"
+      },
+      "last_updated": "1616368746"
+                                 },
+"33.2": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/309575"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
