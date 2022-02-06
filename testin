@@ -2540,6 +2540,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/309575"
       },
       "last_updated": "1616368746"
+                                 },
+"114.4": {
+      "title": "Ane Zokusei",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/390556"
+      },
+      "last_updated": "1616368746"
+                                 },
+"23.2": {
+      "title": "Imouto no Naka wa Ii mono da",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/315028"
+      },
+      "last_updated": "1616368746"
+                                 },
+"155": {
+      "title": "[Suihei Sen] Kiss Hug",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/313055"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
