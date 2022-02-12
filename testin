@@ -2564,6 +2564,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/313055"
       },
       "last_updated": "1616368746"
+                                 },
+"114.5": {
+      "title": "Nikushoku Gakuen Chijokyoushi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/139822"
+      },
+      "last_updated": "1616368746"
+                                 },
+"114.6": {
+      "title": "Kazoku Soukanzu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/155502"
+      },
+      "last_updated": "1616368746"
+                                 },
+"149.1": {
+      "title": "Garden + Extra",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/382155"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
