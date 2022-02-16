@@ -2604,6 +2604,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/391947"
       },
       "last_updated": "1616368746"
+                                 },
+"114.7": {
+      "title": "Okasareta Hitozuma",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/148743"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
