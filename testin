@@ -2612,7 +2612,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/148743"
       },
       "last_updated": "1616368746"
+                                 },
+"7.1": {
+      "title": "Kegasare Glamorous",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/332033"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
-
