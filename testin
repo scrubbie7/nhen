@@ -2620,6 +2620,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/332033"
       },
       "last_updated": "1616368746"
+                                 },
+"151.2": {
+      "title": "Yubiwa no Ana",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/118080"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
