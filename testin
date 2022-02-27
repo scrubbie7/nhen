@@ -2644,6 +2644,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/385406"
       },
       "last_updated": "1616368746"
+                                 },
+"160": {
+      "title": "[Iwasaki Yuuki] Etsuran Kinshi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/383353"
+      },
+      "last_updated": "1616368746"
+                                 },
+"161": {
+      "title": "[Kijima Daisyarin] Hitozuma Dorobou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/313123"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
