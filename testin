@@ -2660,6 +2660,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/313123"
       },
       "last_updated": "1616368746"
+                                 },
+"161.1": {
+      "title": "Himitsu no Seikou Nakadashi Haramashi Toroman Kyonyuu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/391695"
+      },
+      "last_updated": "1616368746"
+                                 },
+"161.2": {
+      "title": "Junbaku Kankou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/260300"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
