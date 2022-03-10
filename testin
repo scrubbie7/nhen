@@ -2684,6 +2684,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/186056"
       },
       "last_updated": "1616368746"
+                                 },
+"161.3": {
+      "title": "Mesuochi Kichikukan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/207113"
+      },
+      "last_updated": "1616368746"
                                 }
      }
     }
