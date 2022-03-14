@@ -2708,6 +2708,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/395412"
       },
       "last_updated": "1616368746"
+                                 },
+"128.4": {
+      "title": "kare to watashi no kowareta kizuna",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/238654"
+      },
+      "last_updated": "1616368746"
+                                 },
+"128.5": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/241244"
+      },
+      "last_updated": "1616368746"
+                                 },
+"128.6": {
+      "title": "ch3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/278391"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
