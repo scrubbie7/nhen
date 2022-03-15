@@ -374,10 +374,10 @@
       "last_updated": "1616368746"
      },
 "27": {
-      "title": "[Hasemi box (Hasemi Ryo)] Saimin Hitozuma",
+      "title": "[Tamagou] Futago no Oi no Oba Koukou",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/352372/"
+        "<group name>": "/proxy/api/nhentai/chapter/259183/"
       },
       "last_updated": "1616368746"
           },
@@ -2730,6 +2730,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/278391"
+      },
+      "last_updated": "1616368746"
+                                 },
+"128.7": {
+      "title": "Inaka no Deaikei Gal wa Kyonyuu Shojo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/376575"
       },
       "last_updated": "1616368746"
                                  }
