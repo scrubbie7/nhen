@@ -2796,6 +2796,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/390042"
       },
       "last_updated": "1616368746"
+                                  },
+"168": {
+      "title": "[SS-BRAIN] Koibito ja...nai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/207553"
+      },
+      "last_updated": "1616368746"
+                                  },
+"11.2": {
+      "title": "Panpan Travelers Okinawa Shuudani",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/396181"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
