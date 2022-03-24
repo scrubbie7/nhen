@@ -2844,6 +2844,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/198132"
       },
       "last_updated": "1616368746"
+                                  },
+"62.4": {
+      "title": "Ikenie no Haha - Sacrificial Mothera",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/173794"
+      },
+      "last_updated": "1616368746"
+                                  },
+"62.5": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/307024"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
