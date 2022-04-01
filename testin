@@ -2900,6 +2900,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/367317"
       },
       "last_updated": "1616368746"
+                                  },
+"14.3": {
+      "title": " Delimama",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/134471"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
