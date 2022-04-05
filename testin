@@ -2932,6 +2932,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/366383"
       },
       "last_updated": "1616368746"
+                                  },
+"8.7": {
+      "title": "Musuko ni Yowami",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/398321"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
