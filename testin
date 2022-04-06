@@ -2940,6 +2940,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/398321"
       },
       "last_updated": "1616368746"
+                                  },
+"169.1": {
+      "title": "Tomodachi no Haha o Netoru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/240785"
+      },
+      "last_updated": "1616368746"
+                                  },
+"169.2": {
+      "title": "Manin Densha wa Kiken desu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/289405"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
