@@ -2956,6 +2956,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/289405"
       },
       "last_updated": "1616368746"
+                                  },
+"175.1": {
+      "title": "Ingoku Kyakusen",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/134567"
+      },
+      "last_updated": "1616368746"
+                                  },
+"175.2": {
+      "title": "Shirayuri ni Dokumushi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/126239"
+      },
+      "last_updated": "1616368746"
+                                  },
+"14.4": {
+      "title": "onna kyoushi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/162070"
+      },
+      "last_updated": "1616368746"
+                                  },
+"14.5": {
+      "title": "anedol",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/51568"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
