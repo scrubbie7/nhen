@@ -3012,6 +3012,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/110838"
       },
       "last_updated": "1616368746"
+                                  },
+"18.4": {
+      "title": "Kore tte Aishou desu ka",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/400234"
+      },
+      "last_updated": "1616368746"
+                                  },
+176": {
+      "title": "[NYPAON] Goukaku Iwai no Fudeoroshi Koubiy",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/400330"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
