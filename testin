@@ -3028,6 +3028,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/400330"
       },
       "last_updated": "1616368746"
+                                  },
+"34.4": {
+      "title": "Anata no Mama ni Naritakute",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/401326"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
