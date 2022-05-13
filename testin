@@ -3068,6 +3068,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/400646"
       },
       "last_updated": "1616368746"
+                                  },
+"180": {
+      "title": "[Yoshiura Kazuya] Toriko Jikake -Trapped in her smile",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/341022"
+      },
+      "last_updated": "1616368746"
+                                  },
+"180.1": {
+      "title": "Futari Yogari",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/133457"
+      },
+      "last_updated": "1616368746"
+                                  },
+"180.2": {
+      "title": "Kizashi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/392118"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
