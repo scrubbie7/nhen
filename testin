@@ -3100,6 +3100,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/265405"
       },
       "last_updated": "1616368746"
+                                  },
+"181.1": {
+      "title": "Seiyoku Mamire no Tsumamigoro",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/337151"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
