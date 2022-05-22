@@ -3108,6 +3108,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/337151"
       },
       "last_updated": "1616368746"
+                                  },
+"114.8": {
+      "title": "Omoide no Sensei Oshiego",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/403853"
+      },
+      "last_updated": "1616368746"
+                                  },
+"114.9": {
+      "title": "Haha to Imouto | Mother and Younger Sister",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/309224"
+      },
+      "last_updated": "1616368746"
+                                  },
+"182": {
+      "title": "[Yokkora] Love Muchi!",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/220774"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
