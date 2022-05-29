@@ -2517,7 +2517,7 @@
       },
       "last_updated": "1616368746"
                                  },
-"140.3": {
+"140.4": {
       "title": "Yume ka Utsutsu ka",
       "volume": "0",
       "groups": {
@@ -3154,6 +3154,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/341019"
+      },
+      "last_updated": "1616368746"
+                                  },
+"140.3": {
+      "title": "ch4",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/404762"
       },
       "last_updated": "1616368746"
                                  }
