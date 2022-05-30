@@ -3204,6 +3204,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/404818"
       },
       "last_updated": "1616368746"
+                                  },
+"80.3": {
+      "title": "姉",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/404954"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
