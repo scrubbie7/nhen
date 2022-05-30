@@ -3236,6 +3236,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/361232"
       },
       "last_updated": "1616368746"
+                                  },
+"151.10": {
+      "title": "Kinjo Yuuwaku Teruhiko to Okaa-san Hen Joshou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/179431"
+      },
+      "last_updated": "1616368746"
+                                  },
+"151.11": {
+      "title": "pt2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/189000"
+      },
+      "last_updated": "1616368746"
+                                  },
+"151.12": {
+      "title": "pt3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/189001"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
