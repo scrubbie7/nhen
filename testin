@@ -3220,6 +3220,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/403326"
       },
       "last_updated": "1616368746"
+                                  },
+"80.5": {
+      "title": "Tsukiyo no Midare Zake",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/360724"
+      },
+      "last_updated": "1616368746"
+                                  },
+"80.6": {
+      "title": "pt2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/361232"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
