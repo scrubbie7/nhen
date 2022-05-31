@@ -3260,6 +3260,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/189001"
       },
       "last_updated": "1616368746"
+                                  },
+"185": {
+      "title": "[Touma Itsuki] Injou na Otosume",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/339061"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
