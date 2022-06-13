@@ -3276,7 +3276,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/404271"
       },
       "last_updated": "1616368746"
+                                  },
+"185.1": {
+      "title": "Anegurui",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/189997"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
-
