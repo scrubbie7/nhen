@@ -3308,6 +3308,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/403869"
       },
       "last_updated": "1616368746"
+                                  },
+"192": {
+      "title": "[Shirokurousa (Sugiyuu)] Kiyowa na Kanojo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/407398"
+      },
+      "last_updated": "1616368746"
+                                  },
+"84.3": {
+      "title": "Dosukebe Kyoushitsu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/397007"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
