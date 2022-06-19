@@ -3284,6 +3284,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/189997"
       },
       "last_updated": "1616368746"
+                                  },
+"189": {
+      "title": "[Inoue Makito] Gekka Bijin",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/314320"
+      },
+      "last_updated": "1616368746"
+                                  },
+"190": {
+      "title": "[Tarakan] Ojou-sama wa Ichizu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/405736"
+      },
+      "last_updated": "1616368746"
+                                  },
+"191": {
+      "title": "[Bouningen] Miuchi Etchi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/403869"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
