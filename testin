@@ -3332,6 +3332,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/369094"
       },
       "last_updated": "1616368746"
+                                  },
+"176.1": {
+      "title": "Kaisha no Relaxation Room",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/408353"
+      },
+      "last_updated": "1616368746"
+                                  },
+"194": {
+      "title": "[Rororogi Mogera] Yolki Palki Sakuhinshuu 1",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/349415"
+      },
+      "last_updated": "1616368746"
+                                  },
+"194.1": {
+      "title": "part 2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/378200"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
