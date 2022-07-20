@@ -3356,6 +3356,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/378200"
       },
       "last_updated": "1616368746"
+                                  },
+"195": {
+      "title": "[LINDA] Hontono Okusama",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/409637"
+      },
+      "last_updated": "1616368746"
+                                   },
+"2.4": {
+      "title": "after my wife went to a reunion",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/410933"
+      },
+      "last_updated": "1616368746"
+                                   },
+"83.3": {
+      "title": "Pochazuma Nikuzukan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/126404"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
