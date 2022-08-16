@@ -3500,6 +3500,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/320986"
       },
       "last_updated": "1616368746"
+                                   },
+"200": {
+      "title": "[syosonn] ojoosama,gokujo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/408549"
+      },
+      "last_updated": "1616368746"
+                                   },
+"201": {
+      "title": "[yomodaomo] nouka no yome",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/413828"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
