@@ -382,10 +382,10 @@
       "last_updated": "1616368746"
           },
 "4.2": {
-      "title": "[Tokiwa Midori] Torokeru Karada wa Otomeiro",
+      "title": "Torokeru Karada wa Otomeiro",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/345232/"
+        "<group name>": "/proxy/api/nhentai/chapter/407299/"
       },
       "last_updated": "1616368746"
           },
@@ -3514,6 +3514,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/413828"
+      },
+      "last_updated": "1616368746"
+                                   },
+"202": {
+      "title": "[tamaii shikine] hitodzuma",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/414622"
       },
       "last_updated": "1616368746"
                                  }
