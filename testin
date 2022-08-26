@@ -3524,6 +3524,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/414622"
       },
       "last_updated": "1616368746"
+                                   },
+"203": {
+      "title": "[Small Marron (Asakura Kukuri)] Seikou Hiwa ~Kareshi Mochi no Watashi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/403017"
+      },
+      "last_updated": "1616368746"
+                                   },
+"203.1": {
+      "title": "InCha Bijutsubu no Watashi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/414337"
+      },
+      "last_updated": "1616368746"
+                                   },
+"188.1": {
+      "title": "pt2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/416727"
+      },
+      "last_updated": "1616368746"
+                                   },
+"204": {
+      "title": "[setsuna (amasora taichi) boku to rina",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/416698"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
