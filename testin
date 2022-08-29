@@ -3588,6 +3588,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/362463"
       },
       "last_updated": "1616368746"
+                                   },
+"47.2": {
+      "title": "Shoujo kara Shoujo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/405483"
+      },
+      "last_updated": "1616368746"
+                                   },
+"208": {
+      "title": "[Ooshima Ryou] JukuCos",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/409661"
+      },
+      "last_updated": "1616368746"
+                                   },
+"44.2": {
+      "title": "Ochinpo Aikou Bijyo Club",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/412545"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
