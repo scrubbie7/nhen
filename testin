@@ -3620,6 +3620,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/399708"
       },
       "last_updated": "1616368746"
+                                   },
+"100.1": {
+      "title": "Seifuku Ura Omote",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/405064"
+      },
+      "last_updated": "1616368746"
+                                   },
+"210": {
+      "title": "[Shibuki Oroshi] Wakazuma Netorare Seikouroku",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/361088"
+      },
+      "last_updated": "1616368746"
+                                   },
+"211": {
+      "title": "[diletta_(akusema)]_raputora_after_story",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/416780"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
