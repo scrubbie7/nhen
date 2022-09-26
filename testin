@@ -3780,6 +3780,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/420324"
       },
       "last_updated": "1616368746"
+                                   },
+"123.4": {
+      "title": "Houkago Dairizuma Sakura",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/421104"
+      },
+      "last_updated": "1616368746"
+                                   },
+"126": {
+      "title": "[Rokumarusou (Sanrokumaru)] Soshite Watashi wa",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/421519"
+      },
+      "last_updated": "1616368746"
+                                   },
+"127": {
+      "title": "[Kurofood] Kuro Kami Ken Ran",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/420814"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
