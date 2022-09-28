@@ -3804,6 +3804,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/420814"
       },
       "last_updated": "1616368746"
+                                   },
+"3.3": {
+      "title": "Boku to Itoko",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/310934"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
