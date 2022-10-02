@@ -3812,6 +3812,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/310934"
       },
       "last_updated": "1616368746"
+                                   },
+"128": {
+      "title": "[Hazakura Satsuki] Saimin Appli",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/420830"
+      },
+      "last_updated": "1616368746"
+                                   },
+"129": {
+      "title": "[Sakujirou] En",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/374983"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
