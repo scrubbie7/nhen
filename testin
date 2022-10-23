@@ -3884,6 +3884,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/351868"
       },
       "last_updated": "1616368746"
+                                   },
+"213.3": {
+      "title": "ちどけピース! + 4P",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/407372"
+      },
+      "last_updated": "1616368746"
+                                   },
+"221": {
+      "title": "[Hirano Kawajuu] Shoujo Kyousei Seikou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/418370"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
