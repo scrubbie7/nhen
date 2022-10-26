@@ -3900,6 +3900,54 @@
         "<group name>": "/proxy/api/nhentai/chapter/418370"
       },
       "last_updated": "1616368746"
+                                   },
+"104.1": {
+      "title": "Enjo Kosai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/137150"
+      },
+      "last_updated": "1616368746"
+                                   },
+"104.2": {
+      "title": "Wotome Haha",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/321344"
+      },
+      "last_updated": "1616368746"
+                                   },
+"222": {
+      "title": "[Hirama Hirokazu] Stand by OK",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/402550"
+      },
+      "last_updated": "1616368746"
+                                   },
+"223": {
+      "title": "[Yanyo] Love Sugi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/418527"
+      },
+      "last_updated": "1616368746"
+                                   },
+"224": {
+      "title": "[Yatsuki Hiyori] Cho Choro Sugi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/423703"
+      },
+      "last_updated": "1616368746"
+                                   },
+"44.3": {
+      "title": "Megamitachi no Complex",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/208762"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
