@@ -3948,6 +3948,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/208762"
       },
       "last_updated": "1616368746"
+                                   },
+"15.7": {
+      "title": "Zoku, Tomodachi no Hahaoya",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/428959"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
