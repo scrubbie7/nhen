@@ -3964,6 +3964,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/425666"
       },
       "last_updated": "1616368746"
+                                   },
+"59.6": {
+      "title": "Mukashi no Uwaki Aite",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/431687"
+      },
+      "last_updated": "1616368746"
+                                   },
+"11.3": {
+      "title": "Panpan Travelers Oosaka Shuudan Rapehen",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/429735"
+      },
+      "last_updated": "1616368746"
+                                   },
+"107.3": {
+      "title": "Watashi wa Tada Skirt o Mijikaku shita dake",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/430387"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
