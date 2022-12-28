@@ -4044,6 +4044,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/407438"
       },
       "last_updated": "1616368746"
+                                   },
+"80.20": {
+      "title": "ch2 color",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/432079"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
