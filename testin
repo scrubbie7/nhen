@@ -4052,6 +4052,46 @@
         "<group name>": "/proxy/api/nhentai/chapter/432119"
       },
       "last_updated": "1616368746"
+                                   },
+"228": {
+      "title": "[Nagare Ippon] Kaname Date Jou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/300872"
+      },
+      "last_updated": "1616368746"
+                                   },
+"228.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/433851"
+      },
+      "last_updated": "1616368746"
+                                   },
+"228.2": {
+      "title": "Koukan Jyoken",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/425766"
+      },
+      "last_updated": "1616368746"
+                                   },
+"229": {
+      "title": "[Arai Kei] Houkago Initiation",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/378156"
+      },
+      "last_updated": "1616368746"
+                                   },
+"230": {
+      "title": "[eightman] mebuki",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/432084"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
