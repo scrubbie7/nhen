@@ -4126,10 +4126,18 @@
       "last_updated": "1616368746"
                                    },
 "231.2": {
-      "title": "Otomodachi to Oyakodon,
+      "title": "Otomodachi to Oyakodon",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/409534"
+      },
+      "last_updated": "1616368746"
+                                   },
+"233": {
+      "title": "[Kizaru] HIDA-SHIBORI -Monmon Muchi Oba Body",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/333418"
       },
       "last_updated": "1616368746"
                                  }
