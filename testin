@@ -4116,6 +4116,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/396021"
       },
       "last_updated": "1616368746"
+                                   },
+"231.1": {
+      "title": "Megane Tsuma no Otomodachi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/416724"
+      },
+      "last_updated": "1616368746"
+                                   },
+"231.2": {
+      "title": "Otomodachi to Oyakodon,
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/409534"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
