@@ -4148,6 +4148,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/379812"
       },
       "last_updated": "1616368746"
+                                   },
+"235": {
+      "title": "[Nylon] Kyonyuu ga Nayami no Suiei Buin",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/298749"
+      },
+      "last_updated": "1616368746"
+                                   },
+"235.1": {
+      "title": "Ore no Jiman no kanojo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/387778"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
