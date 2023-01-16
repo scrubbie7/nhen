@@ -4164,6 +4164,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/387778"
       },
       "last_updated": "1616368746"
+                                   },
+"185.2": {
+      "title": "In'yoku Ero Tsuma",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/436380"
+      },
+      "last_updated": "1616368746"
+                                   },
+"236": {
+      "title": "[Echigoya Takeru] Nyotaika Heaven",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/396976"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
