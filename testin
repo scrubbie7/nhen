@@ -4196,6 +4196,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/441228"
       },
       "last_updated": "1616368746"
+                                   },
+"237": {
+      "title": "[Esuke] Sakuseikei Kanojo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/437864"
+      },
+      "last_updated": "1616368746"
+                                   },
+"238": {
+      "title": "[Ryuuta] Seiyoku | Sei ni Oboreru Onna-tachi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/401555"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
