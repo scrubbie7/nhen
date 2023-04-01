@@ -4260,6 +4260,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/444149"
       },
       "last_updated": "1616368746"
+                                   },
+"8.8": {
+      "title": "hahaoya ni kokuhakushitara",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/445482"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
