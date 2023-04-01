@@ -4244,6 +4244,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/334915"
       },
       "last_updated": "1616368746"
+                                   },
+"141.3": {
+      "title": "Yasashii Dake no Otoko",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/444641"
+      },
+      "last_updated": "1616368746"
+                                   },
+"141.3": {
+      "title": "[SAVAN] Sweet Days",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/444149"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
