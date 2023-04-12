@@ -3646,18 +3646,18 @@
       "last_updated": "1616368746"
                                    },
 "13.2": {
-      "title": "3.1",
+      "title": "3",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/395737"
+        "<group name>": "/proxy/api/nhentai/chapter/449616"
       },
       "last_updated": "1616368746"
                                    },
-"13.3": {
-      "title": "3.2",
+"243": {
+      "title": "[kanitomato] nemureru uchi ch1-8",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/418350"
+        "<group name>": "/proxy/api/nhentai/chapter/449395"
       },
       "last_updated": "1616368746"
                                    },
@@ -3862,18 +3862,18 @@
       "last_updated": "1616368746"
                                    },
 "220": {
-      "title": "[Pororivista] Aori Otoko 1",
+      "title": "[Pororivista] Aori Otoko | provoking men 1-7",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/421732"
+        "<group name>": "/proxy/api/nhentai/chapter/450180"
       },
       "last_updated": "1616368746"
                                    },
-"220.1": {
-      "title": "2-4",
+"244": {
+      "title": "[ouma] ikuu zenkou seito no mae",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/422393"
+        "<group name>": "/proxy/api/nhentai/chapter/449582"
       },
       "last_updated": "1616368746"
                                    },
@@ -4258,6 +4258,22 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/444149"
+      },
+      "last_updated": "1616368746"
+                                   },
+"8.8": {
+      "title": "hahaoya ni kokuhakushitara",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/445482"
+      },
+      "last_updated": "1616368746"
+                                   },
+"77.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/443195"
       },
       "last_updated": "1616368746"
                                    },
