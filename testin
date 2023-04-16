@@ -4292,6 +4292,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/449411"
       },
       "last_updated": "1616368746"
+                                   },
+"245": {
+      "title": "[nanao] master works",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/439833"
+      },
+      "last_updated": "1616368746"
+                                   },
+"246": {
+      "title": "[peter mitsuru] fuufuu koukan ch1-11",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/450320"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
