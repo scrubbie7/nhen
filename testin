@@ -4308,6 +4308,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/450320"
       },
       "last_updated": "1616368746"
+                                   },
+"173": {
+      "title": "osananajimi no shiro",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/441448"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
