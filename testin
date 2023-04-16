@@ -369,7 +369,7 @@
       "title": "[Koorizu] Osananajimi Sotsugyoushiki",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/258954/"
+        "<group name>": "/proxy/api/nhentai/chapter/448890/"
       },
       "last_updated": "1616368746"
      },
@@ -4282,6 +4282,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/445482"
+      },
+      "last_updated": "1616368746"
+                                   },
+"126.1a": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/449411"
       },
       "last_updated": "1616368746"
                                  }
