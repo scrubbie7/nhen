@@ -30,10 +30,10 @@
       "last_updated": "1616368746"
     },
 "4": {
-      "title": "[Tokiwa Midori] Panya no Adachi-san",
+      "title": "[Tokiwa Midori] shiranai koto",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/349682/"
+        "<group name>": "/proxy/api/nhentai/chapter/453504/"
       },
       "last_updated": "1616368746"
     },
@@ -301,11 +301,11 @@
       },
       "last_updated": "1616368746"
       },
-"4.1": {
-      "title": "minna de sketch",
+"229.1": {
+      "title": "boku no senpai",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/355612/"
+        "<group name>": "/proxy/api/nhentai/chapter/440535/"
       },
       "last_updated": "1616368746"
          },
@@ -1773,19 +1773,19 @@
       },
       "last_updated": "1616368746"
                                 },
-"4.3": {
-      "title": "Gal ni Tomarimasu",
+"250": {
+      "title": "[baksheesh AT] tokunou mama milk",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/372157"
+        "<group name>": "/proxy/api/nhentai/chapter/452011"
       },
       "last_updated": "1616368746"
                                 },
-"4.4": {
-      "title": "Kanpai! Tsuyotsuyo Onee-chan",
+"251: {
+      "title": "[pei] muchuu ni shite",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/377347"
+        "<group name>": "/proxy/api/nhentai/chapter/453206"
       },
       "last_updated": "1616368746"
                                 },
@@ -4332,6 +4332,23 @@
         "<group name>": "/proxy/api/nhentai/chapter/449063"
       },
       "last_updated": "1616368746"
+                                   },
+"83.5": {
+      "title": "back to square one",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/453432"
+      },
+      "last_updated": "1616368746"
+                                   },
+"249": {
+      "title": "[dramus] hitorijime",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/384291"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
