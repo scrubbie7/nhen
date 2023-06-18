@@ -2041,7 +2041,7 @@
       "title": "[Negurie] Karamitsuku Shisen",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/262893"
+        "<group name>": "/proxy/api/nhentai/chapter/405921"
       },
       "last_updated": "1616368746"
                                  },
@@ -2049,7 +2049,7 @@
       "title": "ch2",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/367362"
+        "<group name>": "/proxy/api/nhentai/chapter/405927"
       },
       "last_updated": "1616368746"
                                  },
@@ -3865,7 +3865,7 @@
       "title": "[Pororivista] Aori Otoko | provoking men 1-7",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/450180"
+        "<group name>": "/proxy/api/nhentai/chapter/458903"
       },
       "last_updated": "1616368746"
                                    },
@@ -4474,6 +4474,30 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/304236"
+      },
+      "last_updated": "1616368746"
+                                   },
+"258": {
+      "title": "[PIero] Shichinin no Mama",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/397430"
+      },
+      "last_updated": "1616368746"
+                                   },
+"259": {
+      "title": "[Shin Fuzen] Dosukebe Onee-san Seitsuu Nikki",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/371532"
+      },
+      "last_updated": "1616368746"
+                                   },
+"260": {
+      "title": "[Chano Mina] Harem Gasshuku -Ecchi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/457145"
       },
       "last_updated": "1616368746"
                                  }
