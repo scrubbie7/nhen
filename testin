@@ -4500,6 +4500,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/457145"
       },
       "last_updated": "1616368746"
+                                   },
+"261": {
+      "title": "[ashizuki] toriaezu, yattemiyo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/460903"
+      },
+      "last_updated": "1616368746"
+                                   },
+"161.5": {
+      "title": "Oman Control",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/459935"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
