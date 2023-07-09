@@ -4556,6 +4556,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/78771"
       },
       "last_updated": "1616368746"
+                                   },
+"179.1": {
+      "title": "nureta hana",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/333822"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
