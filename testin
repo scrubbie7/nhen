@@ -4628,6 +4628,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/458629"
       },
       "last_updated": "1616368746"
+                                   },
+"8.88": {
+      "title": "pt2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/466217"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
