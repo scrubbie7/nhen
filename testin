@@ -4692,6 +4692,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/464457"
       },
       "last_updated": "1616368746"
+                                   },
+"268": {
+      "title": "[Ura no Hikidashi (Nizii)] Pakokatsu Oji-san to Kaede-chan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/462798"
+      },
+      "last_updated": "1616368746"
+                                   },
+"268.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/465429"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
