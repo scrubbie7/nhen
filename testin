@@ -3777,7 +3777,7 @@
       "title": "Houkago Dairizuma Sakura",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/421104"
+        "<group name>": "/proxy/api/nhentai/chapter/463073"
       },
       "last_updated": "1616368746"
                                    },
@@ -4682,6 +4682,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/465432"
+      },
+      "last_updated": "1616368746"
+                                   },
+"36.7": {
+      "title": "Mesumama Akume",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/464457"
       },
       "last_updated": "1616368746"
                                  }
