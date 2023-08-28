@@ -1641,7 +1641,7 @@
       "title": "Tomodachi no hahaoya",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/378710"
+        "<group name>": "/proxy/api/nhentai/chapter/468332"
       },
       "last_updated": "1616368746"
                                 },
@@ -3945,7 +3945,7 @@
       "title": "Zoku, Tomodachi no Hahaoya",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/428959"
+        "<group name>": "/proxy/api/nhentai/chapter/468331"
       },
       "last_updated": "1616368746"
                                    },
@@ -4714,6 +4714,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/434447"
+      },
+      "last_updated": "1616368746"
+                                   },
+"38.8": {
+      "title": "gibo-san wa tennen",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/464458"
       },
       "last_updated": "1616368746"
                                  }
