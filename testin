@@ -4740,6 +4740,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/308688"
       },
       "last_updated": "1616368746"
+                                   },
+"266.2": {
+      "title": "Suki yori Atsui no",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/332948"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
