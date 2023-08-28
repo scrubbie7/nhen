@@ -4748,6 +4748,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/332948"
       },
       "last_updated": "1616368746"
+                                   },
+"64.1": {
+      "title": "Shikoyakanaru Toki mo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/396870"
+      },
+      "last_updated": "1616368746"
+                                   },
+"12.3": {
+      "title": "Boku no Kanojo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/469429"
+      },
+      "last_updated": "1616368746"
+                                   },
+"12.4": {
+      "title": "Kirai na Yatsura",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/469428"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
