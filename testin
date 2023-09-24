@@ -4844,6 +4844,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/471574"
       },
       "last_updated": "1616368746"
+                                   },
+"122.11": {
+      "title": "pt2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/473638"
+      },
+      "last_updated": "1616368746"
+                                   },
+"275": {
+      "title": "[kuguri oimo] let's gyaku",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/467443"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
