@@ -4908,6 +4908,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/316033"
       },
       "last_updated": "1616368746"
+                                   },
+"280": {
+      "title": "[croriin] yarikomi saga",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/475079"
+      },
+      "last_updated": "1616368746"
+                                   },
+"87.3": {
+      "title": "kimi to torokete",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/473457"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
