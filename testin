@@ -1193,7 +1193,7 @@
       "title": "Hatsukoi no Hito -Moshi Aishou Batsugun",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/358251"
+        "<group name>": "/proxy/api/nhentai/chapter/478515"
       },
       "last_updated": "1616368746"
                                 },
@@ -4980,6 +4980,63 @@
         "<group name>": "/proxy/api/nhentai/chapter/480141"
       },
       "last_updated": "1616368746"
+                                   },
+"220.1": {
+      "title": "ch9",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/480346"
+      },
+      "last_updated": "1616368746"
+                                   },
+"286": {
+      "title": "[Migihaji] Watashi de Sometai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/479805"
+      },
+      "last_updated": "1616368746"
+                                   },
+"11.4": {
+      "title": "Panpan Travelers Kochi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/481248"
+      },
+      "last_updated": "1616368746"
+                                   },
+"287": {
+      "title": "[Kaientai (Shuten Douji)] 18-gou ga Saimin",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/479787"
+      },
+      "last_updated": "1616368746"
+                                   },
+"288": {
+      "title": "[Alp] IMMORAL ROUTINE",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/471680"
+      },
+      "last_updated": "1616368746"
+                                   },
+"288.1": {
+      "title": "Konoe no Kyuujitsu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/479447"
+      },
+      "last_updated": "1616368746"
+                                   },
+"289": {
+      "title": "[Monchan rev3] Immoral Mine",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/473291"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
