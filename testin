@@ -5084,6 +5084,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/482923"
       },
       "last_updated": "1616368746"
+                                   },
+"6.2": {
+      "title": "Honey Temptation",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/483713"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
