@@ -1929,7 +1929,7 @@
       "title": "Shiko Splash",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/382277"
+        "<group name>": "/proxy/api/nhentai/chapter/481402"
       },
       "last_updated": "1616368746"
                                  },
@@ -3993,7 +3993,7 @@
       "title": "Irotoridori",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/399691"
+        "<group name>": "/proxy/api/nhentai/chapter/482922"
       },
       "last_updated": "1616368746"
                                    },
@@ -5036,7 +5036,56 @@
         "<group name>": "/proxy/api/nhentai/chapter/473291"
       },
       "last_updated": "1616368746"
+                                   },
+"290": {
+      "title": "[Bekotarou] Ao no Mama de - Staying Blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/481735"
+      },
+      "last_updated": "1616368746"
+                                   },
+"291": {
+      "title": "[Sakurayu Hal] Hame Tomo Onnatomodachi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/470038"
+      },
+      "last_updated": "1616368746"
+                                   },
+"292": {
+      "title": "[nicoby] Hajirai Love Range",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/482827"
+      },
+      "last_updated": "1616368746"
+                                   },
+"293": {
+      "title": "[Aruto Naruto] SxPxS Sukebe x Pakori",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/465031"
+      },
+      "last_updated": "1616368746"
+                                   },
+"143.1": {
+      "title": "Mado no Tsubaki",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/482948"
+      },
+      "last_updated": "1616368746"
+                                   },
+"56.3": {
+      "title": "yumemiru otome",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/482923"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
 
