@@ -4113,7 +4113,7 @@
       "title": "Megane Tsuma no Otomodachi",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/416724"
+        "<group name>": "/proxy/api/nhentai/chapter/485161"
       },
       "last_updated": "1616368746"
                                    },
@@ -4121,7 +4121,7 @@
       "title": "Otomodachi to Oyakodon",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/409534"
+        "<group name>": "/proxy/api/nhentai/chapter/485162"
       },
       "last_updated": "1616368746"
                                    },
@@ -5092,8 +5092,41 @@
         "<group name>": "/proxy/api/nhentai/chapter/483713"
       },
       "last_updated": "1616368746"
-                                 }
+                                   },
+"294": {
+      "title": "[Tenma Femio] Hachimitsu Musuko ni Okasarete",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/483710"
+      },
+      "last_updated": "1616368746"
+                                   },
+"295": {
+      "title": "[Keoya] Mesuochi Showtime",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/483788"
+      },
+      "last_updated": "1616368746"
+                                   },
+"296": {
+      "title": "[Yoshimura Tatsumaki] Invite! SEX-darake no Shima",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/484021"
+      },
+      "last_updated": "1616368746"
+                                   },
+"296.1": {
+      "title": "Ero Kahogo Onee-san",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/274916"
+      },
+      "last_updated": "1616368746"
+                                 },
      }
     }
+
 
 
