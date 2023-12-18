@@ -5124,9 +5124,48 @@
         "<group name>": "/proxy/api/nhentai/chapter/274916"
       },
       "last_updated": "1616368746"
+                                   },
+"176.3": {
+      "title": "Giji ja Nai Yatsu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/486228"
+      },
+      "last_updated": "1616368746"
+                                   },
+"294.1": {
+      "title": "Seikai no Mehyou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/404681"
+      },
+      "last_updated": "1616368746"
+                                   },
+"134.1": {
+      "title": "Nadeshiko-san wa NO!tte Ienai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/485569"
+      },
+      "last_updated": "1616368746"
+                                   },
+"297": {
+      "title": "[Cior (Ken-1)] Asunama Soushuuhen",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/470758"
+      },
+      "last_updated": "1616368746"
+                                   },
+"297.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/485506"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
-
 
 
