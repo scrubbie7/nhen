@@ -5188,6 +5188,46 @@
         "<group name>": "/proxy/api/nhentai/chapter/487054"
       },
       "last_updated": "1616368746"
+                                   },
+"300": {
+      "title": "[Okumori Boy] Oretoku Shuugakuryokou CH1-29",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/281799"
+      },
+      "last_updated": "1616368746"
+                                   },
+"301": {
+      "title": "[Shirisensha] Tsubomi Zakari",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/486504"
+      },
+      "last_updated": "1616368746"
+                                   },
+"302": {
+      "title": "[retrobot] Kawaii Osaru-san to Sugosu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/369383"
+      },
+      "last_updated": "1616368746"
+                                   },
+"302.1": {
+      "title": "Best Friend",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/486475"
+      },
+      "last_updated": "1616368746"
+                                   },
+"104.3": {
+      "title": "Uruwashi no Wife",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/486802"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
