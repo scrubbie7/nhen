@@ -2694,10 +2694,10 @@
       "last_updated": "1616368746"
                                  },
 "163": {
-      "title": "[non] NON VIRGIN",
+      "title": "[oda non] NON VIRGIN",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/389694"
+        "<group name>": "/proxy/api/nhentai/chapter/492256"
       },
       "last_updated": "1616368746"
                                  },
@@ -3225,15 +3225,15 @@
       "title": "Tsukiyo no Midare Zake",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/360724"
+        "<group name>": "/proxy/api/nhentai/chapter/494232"
       },
       "last_updated": "1616368746"
                                   },
-"80.8": {
-      "title": "pt2",
+"307": {
+      "title": "[*Sajipen] Hoshigari Musume",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/361232"
+        "<group name>": "/proxy/api/nhentai/chapter/493404"
       },
       "last_updated": "1616368746"
                                   },
@@ -5306,6 +5306,46 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/491417"
+      },
+      "last_updated": "1616368746"
+                                   },
+"308": {
+      "title": "[MGMEE] You & I",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/493626"
+      },
+      "last_updated": "1616368746"
+                                   },
+"309": {
+      "title": "[Tou] Yokubari Kanojo",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/446484"
+      },
+      "last_updated": "1616368746"
+                                   },
+"213.4": {
+      "title": "Tsumi Tsukuri na H",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/493146"
+      },
+      "last_updated": "1616368746"
+                                   },
+"310": {
+      "title": "[Sakura no Tomoru Hi e] Sakura no Tomoru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/493495"
+      },
+      "last_updated": "1616368746"
+                                   },
+"140.44": {
+      "title": "pt2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/493433"
       },
       "last_updated": "1616368746"
                                  }
