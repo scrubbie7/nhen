@@ -5348,9 +5348,63 @@
         "<group name>": "/proxy/api/nhentai/chapter/493433"
       },
       "last_updated": "1616368746"
+                                   },
+"300.1": {
+      "title": "color-30-37",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/469747"
+      },
+      "last_updated": "1616368746"
+                                   },
+"50.2": {
+      "title": "color-Hitozuma one time gal",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/496533"
+      },
+      "last_updated": "1616368746"
+                                   },
+"192.1": {
+      "title": "color-Machihazure no Seijo-sama",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/495107"
+      },
+      "last_updated": "1616368746"
+                                   },
+"311": {
+      "title": "[Syoukaki] Mou Sukoshi Dake",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/495728"
+      },
+      "last_updated": "1616368746"
+                                   },
+"14.9": {
+      "title": "color-Tomodachi no Gal",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/482406"
+      },
+      "last_updated": "1616368746"
+                                   },
+"312": {
+      "title": "[KonKa] My sweet honey",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/495533"
+      },
+      "last_updated": "1616368746"
+                                   },
+"313": {
+      "title": "[Kouda Tomohiro] Uezatchiizu",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/489268"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
-
-
 
