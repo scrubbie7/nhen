@@ -5404,6 +5404,22 @@
         "<group name>": "/proxy/api/nhentai/chapter/489268"
       },
       "last_updated": "1616368746"
+                                   },
+"183.2": {
+      "title": "Totsumachi Nyanko",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/497087"
+      },
+      "last_updated": "1616368746"
+                                   },
+"314": {
+      "title": "Hajimete Holic",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/487657"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
