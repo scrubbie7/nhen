@@ -5420,7 +5420,38 @@
         "<group name>": "/proxy/api/nhentai/chapter/487657"
       },
       "last_updated": "1616368746"
+                                   },
+"34.5": {
+      "title": "Sensei wa Ochinchin no",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/494660"
+      },
+      "last_updated": "1616368746"
+                                   },
+"157.1": {
+      "title": "ch3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/491665"
+      },
+      "last_updated": "1616368746"
+                                   },
+"160.1": {
+      "title": "mm",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/494499"
+      },
+      "last_updated": "1616368746"
+                                   },
+"248.2": {
+      "title": "Oyatsu no Jikan",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/482921"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
-
