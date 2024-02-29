@@ -5452,6 +5452,30 @@
         "<group name>": "/proxy/api/nhentai/chapter/482921"
       },
       "last_updated": "1616368746"
+                                   },
+"315": {
+      "title": "[hamao] wataame to caramel",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/498473"
+      },
+      "last_updated": "1616368746"
+                                   },
+"25.2": {
+      "title": "Fugou Ichizoku no Muko",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/479222"
+      },
+      "last_updated": "1616368746"
+                                   },
+"316": {
+      "title": "[Musenmai] Ochinchin ni Makete",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/491347"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
