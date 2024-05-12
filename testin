@@ -5644,6 +5644,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/405921"
       },
       "last_updated": "1616368746"
+                                   },
+"18.6": {
+      "title": "kawari wa okaa",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/507039"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
