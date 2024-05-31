@@ -2270,7 +2270,7 @@
       "last_updated": "1616368746"
                                  },
 "329": {
-      "title": "511224",
+      "title": "[asamine tel] mechakucha shitai",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/511224"
@@ -5658,6 +5658,22 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/502674"
+      },
+      "last_updated": "1616368746"
+                                   },
+"35.2": {
+      "title": "Tsuya keshiki",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/511823"
+      },
+      "last_updated": "1616368746"
+                                   },
+"330": {
+      "title": "[*ED] Tomodachi no Mama ja Iya dakara",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/385546"
       },
       "last_updated": "1616368746"
                                  }
