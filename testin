@@ -5676,9 +5676,40 @@
         "<group name>": "/proxy/api/nhentai/chapter/385546"
       },
       "last_updated": "1616368746"
+                                   },
+"268.2": {
+      "title": "ch3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/487898"
+      },
+      "last_updated": "1616368746"
+                                   },
+"331": {
+      "title": "[SenakaGashiri] Anoko no Okiniiri",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/510885"
+      },
+      "last_updated": "1616368746"
+                                   },
+"242.3": {
+      "title": "*Hatsujou Rabbits",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/512451"
+      },
+      "last_updated": "1616368746"
+                                   },
+"332": {
+      "title": "[Inukami Inoji] Emotional POP Girls",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/439837"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
-
 
 
