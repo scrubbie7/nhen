@@ -4286,10 +4286,10 @@
       "last_updated": "1616368746"
                                    },
 "246": {
-      "title": "[peter mitsuru] fuufuu koukan ch1-11",
+      "title": "*[peter mitsuru] fuufuu koukan ch1-15",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/450320"
+        "<group name>": "/proxy/api/nhentai/chapter/453542"
       },
       "last_updated": "1616368746"
                                    },
@@ -5996,8 +5996,42 @@
         "<group name>": "/proxy/api/nhentai/chapter/527839"
       },
       "last_updated": "1616368746"
+                                     },
+"2.5": {
+      "title": "*M Ko",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/528215"
+      },
+      "last_updated": "1616368746"
+                                     },
+"246.1": {
+      "title": "16-27",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/528649"
+      },
+      "last_updated": "1616368746"
+                                     },
+"348": {
+      "title": "[Namboku] Break Your Face",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/529035"
+      },
+      "last_updated": "1616368746"
+                                     },
+"349": {
+      "title": "[Igarashi Shouno] Dosukebe Bijin Yonshimai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/487656"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
+
 
 
