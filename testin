@@ -4881,7 +4881,7 @@
       "title": "*Frustration Girls",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/468379"
+        "<group name>": "/proxy/api/nhentai/chapter/528780"
       },
       "last_updated": "1616368746"
                                    },
@@ -6026,6 +6026,14 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/487656"
+      },
+      "last_updated": "1616368746"
+                                     },
+"327.3": {
+      "title": "Karamitsuku Shisen 4",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/530266"
       },
       "last_updated": "1616368746"
                                  }
