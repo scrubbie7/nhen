@@ -862,10 +862,10 @@
       "last_updated": "1616368746"
                         },
 "51": {
-      "title": "[Karube Guri] Ima... Shitai no",
+      "title": "[*Karube Guri] Ima... Shitai no",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/359325/"
+        "<group name>": "/proxy/api/nhentai/chapter/526137/"
       },
       "last_updated": "1616368746"
                         },
@@ -873,7 +873,7 @@
       "title": "Fushidara Honey",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/251520/"
+        "<group name>": "/proxy/api/nhentai/chapter/526139/"
       },
       "last_updated": "1616368746"
                          },
@@ -2481,7 +2481,7 @@
       "title": "Anata to Gachinko Taiketsu",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/387415"
+        "<group name>": "/proxy/api/nhentai/chapter/527441"
       },
       "last_updated": "1616368746"
                                  },
@@ -3774,10 +3774,10 @@
       "last_updated": "1616368746"
                                    },
 "123.4": {
-      "title": "Houkago Dairizuma Sakura",
+      "title": "*colored寝室は娘友達",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/463073"
+        "<group name>": "/proxy/api/nhentai/chapter/533958"
       },
       "last_updated": "1616368746"
                                    },
@@ -3961,7 +3961,7 @@
       "title": "Mukashi no Uwaki Aite",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/431687"
+        "<group name>": "/proxy/api/nhentai/chapter/525933"
       },
       "last_updated": "1616368746"
                                    },
@@ -5233,7 +5233,7 @@
       "title": "[*Pyon-Kti] Katakoi Fragment",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/489569"
+        "<group name>": "/proxy/api/nhentai/chapter/532768"
       },
       "last_updated": "1616368746"
                                    },
@@ -5985,7 +5985,7 @@
       "title": "*Toutou to Dakudaku",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/527840"
+        "<group name>": "/proxy/api/nhentai/chapter/535034"
       },
       "last_updated": "1616368746"
                                      },
@@ -6090,6 +6090,22 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/528966"
+      },
+      "last_updated": "1616368746"
+                                     },
+"27.3": {
+      "title": "Shinkansen de Nani shiteru",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/406737"
+      },
+      "last_updated": "1616368746"
+                                     },
+"27.4": {
+      "title": "Tsubakigaoka Danchi no",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/431929"
       },
       "last_updated": "1616368746"
                                  }
