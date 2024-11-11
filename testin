@@ -6164,6 +6164,14 @@
         "<group name>": "/proxy/api/nhentai/chapter/536426"
       },
       "last_updated": "1616368746"
+                                     },
+"354.1": {
+      "title": "*Daeki",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/410835"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
