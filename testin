@@ -3886,7 +3886,7 @@
       "last_updated": "1616368746"
                                    },
 "221": {
-      "title": "[Hirano Kawajuu] Shoujo Kyousei Seikou",
+      "title": "[Hirano Kawajuu] Shoujo Kyousei Seikou[s]",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/418370"
@@ -5686,7 +5686,7 @@
       "last_updated": "1616368746"
                                    },
 "331": {
-      "title": "[SenakaGashiri] Anoko no Okiniiri",
+      "title": "[*SenakaGashiri] Anoko no Okiniiri",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/510885"
@@ -6202,6 +6202,54 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/nhentai/chapter/538624"
+      },
+      "last_updated": "1616368746"
+                                       },
+"358": {
+      "title": "[Napo] Koi no Gun Fight",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/541509"
+      },
+      "last_updated": "1616368746"
+                                       },
+"172.2": {
+      "title": "[Minamoto] Houmon Kanyuu 1-5 ",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/536475"
+      },
+      "last_updated": "1616368746"
+                                       },
+"331.1": {
+      "title": "Ai o Sosoide - Love inside me",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/541137"
+      },
+      "last_updated": "1616368746"
+                                       },
+"359": {
+      "title": "[Takota Konu] Torokeru Mannaka",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/540111"
+      },
+      "last_updated": "1616368746"
+                                       },
+"59.8": {
+      "title": "Ore to Oba to no Himeyakana Yokubou",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/541768"
+      },
+      "last_updated": "1616368746"
+                                       },
+"126.5": {
+      "title": "kanojo no okashita AYAMACHI",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/536421"
       },
       "last_updated": "1616368746"
                                  }
