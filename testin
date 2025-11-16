@@ -6516,9 +6516,27 @@
         "<group name>": "/proxy/api/nhentai/chapter/586038"
       },
       "last_updated": "1616368746"
+                                       },
+"322.1": {
+      "title": "*Furueru Yoru ni",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/594541"
+      },
+      "last_updated": "1616368746"
+                                       },
+"377": {
+      "title": "*[Ayano Val] Wagamamana Onna",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/594483"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
+
 
 
 
