@@ -4353,7 +4353,7 @@
       "title": "futei no karada",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/460699"
+        "<group name>": "/proxy/api/nhentai/chapter/541078"
       },
       "last_updated": "1616368746"
                                    },
@@ -6062,10 +6062,10 @@
       "last_updated": "1616368746"
                                      },
 "85.2": {
-      "title": "Ippai Sawatte",
+      "title": "Ippai Sawatte*",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/531743"
+        "<group name>": "/proxy/api/nhentai/chapter/617345"
       },
       "last_updated": "1616368746"
                                      },
@@ -6214,10 +6214,10 @@
       "last_updated": "1616368746"
                                        },
 "172.2": {
-      "title": "[Minamoto] Houmon Kanyuu 1-5 ",
+      "title": "[Minamoto] Houmon Kanyuu_colored",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/536475"
+        "<group name>": "/proxy/api/nhentai/chapter/613494"
       },
       "last_updated": "1616368746"
                                        },
@@ -6532,9 +6532,50 @@
         "<group name>": "/proxy/api/nhentai/chapter/594483"
       },
       "last_updated": "1616368746"
+                                       },
+"378": {
+      "title": "*[Kyouniku Kyoushoku (Jagi Iwa)] Houtou Kizoku",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/630222"
+      },
+      "last_updated": "1616368746"
+                                       },
+"206.2": {
+      "title": "*Eigyou Saki_colored",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/619880"
+      },
+      "last_updated": "1616368746"
+                                       },
+"363.1": {
+      "title": "*ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/613251"
+      },
+      "last_updated": "1616368746"
+                                       },
+"141.6": {
+      "title": "ch3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/614755"
+      },
+      "last_updated": "1616368746"
+                                       },
+"310.3": {
+      "title": "Watashi… Anata",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/631852"
+      },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
 
 
 
